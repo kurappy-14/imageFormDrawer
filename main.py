@@ -5,7 +5,7 @@ from imageFormDrawer import FormDrawer # 作成したモジュール
 # --- 設定 ---
 IMAGE_PATH = 'image/A4.jpg'
 OUTPUT_PATH = 'image/記入済_完全版.jpg'
-FONT_PATH = "C:\\Windows\\Fonts\\meiryo.ttc"
+FONT_PATH = "fonts/ipaexg.ttf"
 
 # データファイルのパス設定
 JSON_FILES = {
